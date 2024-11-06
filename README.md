@@ -1,2 +1,3 @@
 # WeatherPrediction
- A machine learning project for predicting localized weather using different models.
+Localized Weather Prediction: Incorporating Terrain and Geographical Factors for Improved Accuracy
+A Machine Learning Based Research Paper 
