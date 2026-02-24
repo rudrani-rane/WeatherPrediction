@@ -1,3 +1,8 @@
 Research Paper: Localized Weather Prediction: Incorporating Terrain and Geographical Factors for Improved Accuracy 
 
 Accurate weather prediction in localized regions is challenging due to microclimate variability and limited data. This research proposes a stacked ensemble model combining Support Vector Regression (SVR) and XGBoost to improve air temperature predictions at a fine scale. Using high-resolution sensor data, we preprocess the dataset and conduct exploratory analysis to capture essential feature relationships. Optimized SVR and XGBoost models are combined with a linear regression meta-learner to leverage both linear and non-linear data patterns. The ensemble achieves superior performance, demonstrating its effectiveness for localized forecasting applications.
+
+It is a comparative research study analyzing limitations in existing weather forecasting models, specifically
+targeting challenges in localized prediction for micro-climate zones (coastal regions).
+Authored a comprehensive research paper detailing the methodology, results, and architectural choices for the
+model, slated for academic submission.
